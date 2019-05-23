@@ -1,0 +1,43 @@
+é um sistema de satelITE de gpv ferrovia
+cuida do trabalho da jornada dos maquinistas
+como se fosse um ponto faz anotaçoes do que acontece no dia a dia
+
+
+JAVA
+BANCO ORACLE
+HTML
+
+IREPORT
+JQUERY
+JSP
+STRUTS 1 
+
+atende as ferrovias EFVM
+efc
+moçambique
+
+equipagem são os maquinistas cat c
+
+local ferroviario são pontos dentro da ferrovia
+como patio, estaçoes (é um local)
+
+destacamento 
+é onde as equipagen inicia a jornada de trabalho
+ou terminam sua jornada.
+Sede é onde inicia
+Escala é permitido troca
+
+é o que o maquinista vai executa durante o dia
+
+catogria é o cargo de uma equipagem
+assistente
+equipagem
+manobrista
+
+equipefer focados em tarefas 
+dos maquinistas fora e dentro do trem
+ 
+
+
+
+
